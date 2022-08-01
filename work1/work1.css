@@ -1,0 +1,16 @@
+#b{
+    text-align: center;
+}
+#a{
+    align-items: center;
+    align-items: stretch;
+}
+body {
+ /*  background-color: rgb(43, 205, 226);*/
+ background-image: url(../image/lunch1.jpg);
+    background-repeat: no-repeat;
+}
+h2 {
+    text-align: center;
+}
+   
